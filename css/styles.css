@@ -1,0 +1,12 @@
+html body {
+	font-family: "Tahoma";
+	background-color: #fff3db;
+}
+
+.header {
+	margin-top: 1em;
+}
+
+.sentence {
+	margin-top: 2em;
+}
